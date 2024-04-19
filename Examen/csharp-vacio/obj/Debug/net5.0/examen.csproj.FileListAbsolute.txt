@@ -1,0 +1,8 @@
+C:\Users\diego\OneDrive\Escritorio\UV\6semestre\78927\Examen\practica03\obj\Debug\net5.0\examen.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\UV\6semestre\78927\Examen\practica03\obj\Debug\net5.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Escritorio\UV\6semestre\78927\Examen\practica03\obj\Debug\net5.0\examen.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Escritorio\UV\6semestre\78927\Examen\practica03\obj\Debug\net5.0\examen.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\UV\6semestre\78927\Examen\practica03\obj\Debug\net5.0\examen.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\UV\6semestre\78927\Examen\practica03\obj\Debug\net5.0\examen.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diego\OneDrive\Escritorio\UV\6semestre\78927\Examen\practica03\obj\Debug\net5.0\examen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diego\OneDrive\Escritorio\UV\6semestre\78927\Examen\practica03\obj\Debug\net5.0\examen.sourcelink.json
